@@ -1,1 +1,11 @@
-
+{
+  "nome": "Alexandre",
+  "email": "alexandre.coelho@mtcorp.com.br",
+  "data": "29-09-2022",
+  "periodo": "integral",
+  "cadeira": [
+      {
+        "id": "A1"
+      }
+    ]
+}
