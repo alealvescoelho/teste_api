@@ -1,87 +1,89 @@
-[
-    {
-        "ID": "A1",
-        "NM_CADE": "Cadeira 1",
-        "ID_MESA": "86b6a3a2-a4d4-4a95-b913-bfd55404ee07",
-        "DT_CADA": "2022-09-25T17:24:02.876Z",
-        "IN_STAT": true
-    },
-    {
-        "ID": "A2",
-        "NM_CADE": "Cadeira 2",
-        "ID_MESA": "86b6a3a2-a4d4-4a95-b913-bfd55404ee07",
-        "DT_CADA": "2022-09-25T17:24:02.890Z",
-        "IN_STAT": true
-    },
-    {
-        "ID": "A3",
-        "NM_CADE": "Cadeira 3",
-        "ID_MESA": "86b6a3a2-a4d4-4a95-b913-bfd55404ee07",
-        "DT_CADA": "2022-09-25T17:24:02.892Z",
-        "IN_STAT": true
-    },
-    {
-        "ID": "A4",
-        "NM_CADE": "Cadeira 4",
-        "ID_MESA": "86b6a3a2-a4d4-4a95-b913-bfd55404ee07",
-        "DT_CADA": "2022-09-25T17:24:02.894Z",
-        "IN_STAT": true
-    },
-    {
-        "ID": "A5",
-        "NM_CADE": "Cadeira 5",
-        "ID_MESA": "86b6a3a2-a4d4-4a95-b913-bfd55404ee07",
-        "DT_CADA": "2022-09-25T17:24:02.895Z",
-        "IN_STAT": true
-    },
-    {
-        "ID": "A6",
-        "NM_CADE": "Cadeira 6",
-        "ID_MESA": "86b6a3a2-a4d4-4a95-b913-bfd55404ee07",
-        "DT_CADA": "2022-09-25T17:24:02.898Z",
-        "IN_STAT": true
-    },
-    {
-        "ID": "B1",
-        "NM_CADE": "Cadeira 7",
-        "ID_MESA": "86b6a3a2-a4d4-4a95-b913-bfd55404ee07",
-        "DT_CADA": "2022-09-25T17:24:02.900Z",
-        "IN_STAT": true
-    },
-    {
-        "ID": "B2",
-        "NM_CADE": "Cadeira 8",
-        "ID_MESA": "86b6a3a2-a4d4-4a95-b913-bfd55404ee07",
-        "DT_CADA": "2022-09-25T17:24:02.901Z",
-        "IN_STAT": true
-    },
-    {
-        "ID": "B4",
-        "NM_CADE": "Cadeira 9",
-        "ID_MESA": "86b6a3a2-a4d4-4a95-b913-bfd55404ee07",
-        "DT_CADA": "2022-09-25T17:24:02.904Z",
-        "IN_STAT": true
-    },
-    {
-        "ID": "C5",
-        "NM_CADE": "Cadeira 10",
-        "ID_MESA": "86b6a3a2-a4d4-4a95-b913-bfd55404ee07",
-        "DT_CADA": "2022-09-25T17:24:02.907Z",
-        "IN_STAT": true
-    },
-    {
-        "ID": "C9",
-        "NM_CADE": "Cadeira 1",
-        "ID_MESA": "7c6f6fa3-a3f0-4f31-9922-ef73f911c7ce",
-        "DT_CADA": "2022-09-25T17:24:02.913Z",
-        "IN_STAT": true
-    },
-    {
-        "ID": "C10",
-        "NM_CADE": "Cadeira 2",
-        "ID_MESA": "7c6f6fa3-a3f0-4f31-9922-ef73f911c7ce",
-        "DT_CADA": "2022-09-25T17:24:02.916Z",
-        "IN_STAT": true
-    }
+{
+    [
+        {
+            "ID": "A1",
+            "NM_CADE": "Cadeira 1",
+            "ID_MESA": "86b6a3a2-a4d4-4a95-b913-bfd55404ee07",
+            "DT_CADA": "2022-09-25T17:24:02.876Z",
+            "IN_STAT": true
+        },
+        {
+            "ID": "A2",
+            "NM_CADE": "Cadeira 2",
+            "ID_MESA": "86b6a3a2-a4d4-4a95-b913-bfd55404ee07",
+            "DT_CADA": "2022-09-25T17:24:02.890Z",
+            "IN_STAT": true
+        },
+        {
+            "ID": "A3",
+            "NM_CADE": "Cadeira 3",
+            "ID_MESA": "86b6a3a2-a4d4-4a95-b913-bfd55404ee07",
+            "DT_CADA": "2022-09-25T17:24:02.892Z",
+            "IN_STAT": true
+        },
+        {
+            "ID": "A4",
+            "NM_CADE": "Cadeira 4",
+            "ID_MESA": "86b6a3a2-a4d4-4a95-b913-bfd55404ee07",
+            "DT_CADA": "2022-09-25T17:24:02.894Z",
+            "IN_STAT": true
+        },
+        {
+            "ID": "A5",
+            "NM_CADE": "Cadeira 5",
+            "ID_MESA": "86b6a3a2-a4d4-4a95-b913-bfd55404ee07",
+            "DT_CADA": "2022-09-25T17:24:02.895Z",
+            "IN_STAT": true
+        },
+        {
+            "ID": "A6",
+            "NM_CADE": "Cadeira 6",
+            "ID_MESA": "86b6a3a2-a4d4-4a95-b913-bfd55404ee07",
+            "DT_CADA": "2022-09-25T17:24:02.898Z",
+            "IN_STAT": true
+        },
+        {
+            "ID": "B1",
+            "NM_CADE": "Cadeira 7",
+            "ID_MESA": "86b6a3a2-a4d4-4a95-b913-bfd55404ee07",
+            "DT_CADA": "2022-09-25T17:24:02.900Z",
+            "IN_STAT": true
+        },
+        {
+            "ID": "B2",
+            "NM_CADE": "Cadeira 8",
+            "ID_MESA": "86b6a3a2-a4d4-4a95-b913-bfd55404ee07",
+            "DT_CADA": "2022-09-25T17:24:02.901Z",
+            "IN_STAT": true
+        },
+        {
+            "ID": "B4",
+            "NM_CADE": "Cadeira 9",
+            "ID_MESA": "86b6a3a2-a4d4-4a95-b913-bfd55404ee07",
+            "DT_CADA": "2022-09-25T17:24:02.904Z",
+            "IN_STAT": true
+        },
+        {
+            "ID": "C5",
+            "NM_CADE": "Cadeira 10",
+            "ID_MESA": "86b6a3a2-a4d4-4a95-b913-bfd55404ee07",
+            "DT_CADA": "2022-09-25T17:24:02.907Z",
+            "IN_STAT": true
+        },
+        {
+            "ID": "C9",
+            "NM_CADE": "Cadeira 1",
+            "ID_MESA": "7c6f6fa3-a3f0-4f31-9922-ef73f911c7ce",
+            "DT_CADA": "2022-09-25T17:24:02.913Z",
+            "IN_STAT": true
+        },
+        {
+            "ID": "C10",
+            "NM_CADE": "Cadeira 2",
+            "ID_MESA": "7c6f6fa3-a3f0-4f31-9922-ef73f911c7ce",
+            "DT_CADA": "2022-09-25T17:24:02.916Z",
+            "IN_STAT": true
+        }
 
-]
+    ]
+}
